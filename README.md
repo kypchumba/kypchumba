@@ -1,6 +1,7 @@
 ## Hi there I'm Ken👋
 
 Software deloper | AI Engineer | Web developer
+
 I build web and Python applications with a focus on practical, real-world solutions.
 
 ## 🛠 Tech Stack
