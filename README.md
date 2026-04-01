@@ -28,7 +28,7 @@ Full-Stack deloper | AI Engineer | Web developer
 
 ## About Me
 
-I design and build scalable backend systems, APIs and data driven applications with a focus on real world impact.  
+I design and build scalable backend systems, user focused frontends, APIs and data driven applications with a focus on real world impact.  
 My work centers around turning ideas into production ready products from job intelligence platforms to automation tools and AI powered systems.
 
 I approach development with a systems mindset:
