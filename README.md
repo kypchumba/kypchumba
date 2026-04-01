@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ken%20Kipchumba&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:ef4444&height=180&section=header&text=Ken%20Kipchumba&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Designing+scalable+backend+systems;Building+SaaS+and+automation+tools;FastAPI+%7C+React+%7C+AI+systems;Turning+real-world+problems+into+working+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Designing+scalable+fullstack+systems;Building+SaaS+and+automation+tools;FastAPI+%7C+React+%7C+AI+systems;Turning+real-world+problems+into+working+products" />
 </p>
 
 <p align="center">
-  <b>Backend Engineer • Full-Stack Developer • AI & Automation Builder</b>
+  <b>Web developer • Full-Stack Developer • AI & Automation Builder</b>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 ## Hi there I'm Ken
 
-Software deloper | AI Engineer | Web developer
+Full-Stack deloper | AI Engineer | Web developer
 
 ## About Me
 
@@ -56,20 +56,20 @@ Currently focused on building SaaS style applications, backend services and expl
 - HTML, CSS, JavaScript, React, Vue.js, Tailwind CSS
 
 **Backend**
-- FastAPI, Flask, Node.js
+- FastAPI, Flask
 
 **Database**
 - MySQL, SQLite, JSON storage, MongoDB 
 - Currently expanding into PostgreSQL
 
 **Other**
-- API Design • Web Scraping • System Design • Git & GitHub • Vercel • Render
+- API Design • Web Scraping • System Design • VSCode • Git & GitHub • Vercel • Render
 
 ---
 
 ## Current Focus
 
-- Building **production ready backend systems**
+- Building **production ready systems**
 - Developing **SaaS MVPs with real world use cases**
 - Integrating **AI into practical applications**
 - Improving **system design and scalability skills**
@@ -78,7 +78,7 @@ Currently focused on building SaaS style applications, backend services and expl
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/ken-kipchumba-0020a7275  
+- LinkedIn: https://www.linkedin.com/in/ken-kipchumba-0020a7275
 - Email: chumbakenny@gmail.com
 
 
