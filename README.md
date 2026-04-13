@@ -28,7 +28,7 @@ Full-Stack deloper | AI Engineer | Web developer
 
 ## About Me
 
-I design and build scalable backend systems, user focused frontends, APIs and data driven applications with a focus on real world impact.  
+I design and build scalable backend systems, user focused frontends, APIs, data driven applications and AI powered systems with a focus on real world impact.  
 My work centers around turning ideas into production ready products from job intelligence platforms to automation tools and AI powered systems.
 
 I approach development with a systems mindset:
@@ -47,16 +47,17 @@ Currently focused on building SaaS style applications, backend services and expl
 - Create **dashboard style web applications** with React  
 - Design **automation tools and AI powered workflows**  
 - Structure projects for **scalability and real world deployment**
+- Integrate systems with **AI**
 
 ---
 
 ## Tech Stack
 
 **Frontend**
-- HTML, CSS, JavaScript, React, Vue.js, Tailwind CSS
+- JavaScript, HTML, CSS, React, Vue.js, Tailwind CSS
 
 **Backend**
-- FastAPI, Flask
+- Python, FastAPI, Flask
 
 **Database**
 - MySQL, SQLite, JSON storage, MongoDB 
@@ -80,6 +81,7 @@ Currently focused on building SaaS style applications, backend services and expl
 
 - LinkedIn: https://www.linkedin.com/in/ken-kipchumba-0020a7275
 - Email: chumbakenny@gmail.com
+- Portfolio: https://kypchumba.github.io
 
 
 <p align="center">
